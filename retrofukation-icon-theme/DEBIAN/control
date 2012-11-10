@@ -1,0 +1,9 @@
+Package: retrofukation-icon-theme
+Version: 1.0
+Section: x11
+Priority: extra
+Architecture: all
+Installed-Size: 40
+Maintainer: rxtx project (nodiscc@gmail.com)
+Description: Retro-looking icon theme
+ An icon theme part of the retrofukation suite.
