@@ -1,0 +1,11 @@
+Package: rxtx-icon-theme
+Version: 0.9.8
+Section: x11
+Priority: extra
+Architecture: all
+Depends: faenza-icon-theme
+Replaces: faenza-icon-theme
+Installed-Size: 40
+Maintainer: rxtx project (nodiscc@gmail.com)
+Description: Alternative icons for Rxtx
+ More icons for the Faenza icon theme.
