@@ -14,7 +14,7 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="image-x-ico.svg">
   <defs
      id="defs4">
@@ -157,7 +157,7 @@
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3776"
+       xlink:href="#linearGradient3796"
        id="radialGradient3784"
        cx="48.357143"
        cy="970.43353"
@@ -168,12 +168,12 @@
        gradientTransform="matrix(0,2.2322848,-2.0089472,0,1997.9069,862.48666)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3786"
+       xlink:href="#linearGradient3804"
        id="linearGradient3792"
-       x1="23.714285"
-       y1="1044.0563"
-       x2="23.714285"
-       y2="964.36218"
+       x1="14.964285"
+       y1="964.77057"
+       x2="14.964285"
+       y2="1043.6497"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -697,16 +697,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="26.772504"
-     inkscape:cy="106.9315"
+     inkscape:zoom="5.6"
+     inkscape:cx="19.429492"
+     inkscape:cy="43.07617"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="756"
+     inkscape:window-height="748"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="26"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -774,56 +774,16 @@
        height="77"
        width="77"
        id="rect3815"
-       style="fill:none;stroke:url(#linearGradient3823);stroke-opacity:1;opacity:0.50000000000000000" />
-    <rect
-       style="fill:url(#radialGradient3802);fill-opacity:1;stroke:url(#linearGradient3810);stroke-opacity:1"
-       id="rect3794"
-       width="63"
-       height="63"
-       x="16.5"
-       y="972.86218" />
-    <path
-       style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="M 17 17 L 17 21 L 21 21 L 21 17 L 17 17 z M 21 21 L 21 25 L 25 25 L 25 21 L 21 21 z M 25 21 L 29 21 L 29 17 L 25 17 L 25 21 z M 29 21 L 29 25 L 33 25 L 33 21 L 29 21 z M 33 21 L 37 21 L 37 17 L 33 17 L 33 21 z M 37 21 L 37 25 L 41 25 L 41 21 L 37 21 z M 41 21 L 45 21 L 45 17 L 41 17 L 41 21 z M 45 21 L 45 25 L 49 25 L 49 21 L 45 21 z M 49 21 L 53 21 L 53 17 L 49 17 L 49 21 z M 53 21 L 53 25 L 57 25 L 57 21 L 53 21 z M 57 21 L 61 21 L 61 17 L 57 17 L 57 21 z M 61 21 L 61 25 L 65 25 L 65 21 L 61 21 z M 65 21 L 69 21 L 69 17 L 65 17 L 65 21 z M 69 21 L 69 25 L 73 25 L 73 21 L 69 21 z M 73 21 L 77 21 L 77 17 L 73 17 L 73 21 z M 77 21 L 77 25 L 79 25 L 79 21 L 77 21 z M 77 25 L 73 25 L 73 29 L 77 29 L 77 25 z M 77 29 L 77 33 L 79 33 L 79 29 L 77 29 z M 77 33 L 73 33 L 73 37 L 77 37 L 77 33 z M 77 37 L 77 41 L 79 41 L 79 37 L 77 37 z M 77 41 L 73 41 L 73 45 L 77 45 L 77 41 z M 77 45 L 77 49 L 79 49 L 79 45 L 77 45 z M 77 49 L 73 49 L 73 53 L 77 53 L 77 49 z M 77 53 L 77 57 L 79 57 L 79 53 L 77 53 z M 77 57 L 73 57 L 73 61 L 77 61 L 77 57 z M 77 61 L 77 65 L 79 65 L 79 61 L 77 61 z M 77 65 L 73 65 L 73 69 L 77 69 L 77 65 z M 77 69 L 77 73 L 79 73 L 79 69 L 77 69 z M 77 73 L 73 73 L 73 77 L 77 77 L 77 73 z M 77 77 L 77 79 L 79 79 L 79 77 L 77 77 z M 73 77 L 69 77 L 69 79 L 73 79 L 73 77 z M 69 77 L 69 73 L 65 73 L 65 77 L 69 77 z M 65 77 L 61 77 L 61 79 L 65 79 L 65 77 z M 61 77 L 61 73 L 57 73 L 57 77 L 61 77 z M 57 77 L 53 77 L 53 79 L 57 79 L 57 77 z M 53 77 L 53 73 L 49 73 L 49 77 L 53 77 z M 49 77 L 45 77 L 45 79 L 49 79 L 49 77 z M 45 77 L 45 73 L 41 73 L 41 77 L 45 77 z M 41 77 L 37 77 L 37 79 L 41 79 L 41 77 z M 37 77 L 37 73 L 33 73 L 33 77 L 37 77 z M 33 77 L 29 77 L 29 79 L 33 79 L 33 77 z M 29 77 L 29 73 L 25 73 L 25 77 L 29 77 z M 25 77 L 21 77 L 21 79 L 25 79 L 25 77 z M 21 77 L 21 73 L 17 73 L 17 77 L 21 77 z M 21 73 L 25 73 L 25 69 L 21 69 L 21 73 z M 21 69 L 21 65 L 17 65 L 17 69 L 21 69 z M 21 65 L 25 65 L 25 61 L 21 61 L 21 65 z M 21 61 L 21 57 L 17 57 L 17 61 L 21 61 z M 21 57 L 25 57 L 25 53 L 21 53 L 21 57 z M 21 53 L 21 49 L 17 49 L 17 53 L 21 53 z M 21 49 L 25 49 L 25 45 L 21 45 L 21 49 z M 21 45 L 21 41 L 17 41 L 17 45 L 21 45 z M 21 41 L 25 41 L 25 37 L 21 37 L 21 41 z M 21 37 L 21 33 L 17 33 L 17 37 L 21 37 z M 21 33 L 25 33 L 25 29 L 21 29 L 21 33 z M 21 29 L 21 25 L 17 25 L 17 29 L 21 29 z M 25 29 L 29 29 L 29 25 L 25 25 L 25 29 z M 29 29 L 29 33 L 33 33 L 33 29 L 29 29 z M 33 29 L 37 29 L 37 25 L 33 25 L 33 29 z M 37 29 L 37 33 L 41 33 L 41 29 L 37 29 z M 41 29 L 45 29 L 45 25 L 41 25 L 41 29 z M 45 29 L 45 33 L 49 33 L 49 29 L 45 29 z M 49 29 L 53 29 L 53 25 L 49 25 L 49 29 z M 53 29 L 53 33 L 57 33 L 57 29 L 53 29 z M 57 29 L 61 29 L 61 25 L 57 25 L 57 29 z M 61 29 L 61 33 L 65 33 L 65 29 L 61 29 z M 65 29 L 69 29 L 69 25 L 65 25 L 65 29 z M 69 29 L 69 33 L 73 33 L 73 29 L 69 29 z M 69 33 L 65 33 L 65 37 L 69 37 L 69 33 z M 69 37 L 69 41 L 73 41 L 73 37 L 69 37 z M 69 41 L 65 41 L 65 45 L 69 45 L 69 41 z M 69 45 L 69 49 L 73 49 L 73 45 L 69 45 z M 69 49 L 65 49 L 65 53 L 69 53 L 69 49 z M 69 53 L 69 57 L 73 57 L 73 53 L 69 53 z M 69 57 L 65 57 L 65 61 L 69 61 L 69 57 z M 69 61 L 69 65 L 73 65 L 73 61 L 69 61 z M 69 65 L 65 65 L 65 69 L 69 69 L 69 65 z M 69 69 L 69 73 L 73 73 L 73 69 L 69 69 z M 65 69 L 61 69 L 61 73 L 65 73 L 65 69 z M 61 69 L 61 65 L 57 65 L 57 69 L 61 69 z M 57 69 L 53 69 L 53 73 L 57 73 L 57 69 z M 53 69 L 53 65 L 49 65 L 49 69 L 53 69 z M 49 69 L 45 69 L 45 73 L 49 73 L 49 69 z M 45 69 L 45 65 L 41 65 L 41 69 L 45 69 z M 41 69 L 37 69 L 37 73 L 41 73 L 41 69 z M 37 69 L 37 65 L 33 65 L 33 69 L 37 69 z M 33 69 L 29 69 L 29 73 L 33 73 L 33 69 z M 29 69 L 29 65 L 25 65 L 25 69 L 29 69 z M 29 65 L 33 65 L 33 61 L 29 61 L 29 65 z M 29 61 L 29 57 L 25 57 L 25 61 L 29 61 z M 29 57 L 33 57 L 33 53 L 29 53 L 29 57 z M 29 53 L 29 49 L 25 49 L 25 53 L 29 53 z M 29 49 L 33 49 L 33 45 L 29 45 L 29 49 z M 29 45 L 29 41 L 25 41 L 25 45 L 29 45 z M 29 41 L 33 41 L 33 37 L 29 37 L 29 41 z M 29 37 L 29 33 L 25 33 L 25 37 L 29 37 z M 33 37 L 37 37 L 37 33 L 33 33 L 33 37 z M 37 37 L 37 41 L 41 41 L 41 37 L 37 37 z M 41 37 L 45 37 L 45 33 L 41 33 L 41 37 z M 45 37 L 45 41 L 49 41 L 49 37 L 45 37 z M 49 37 L 53 37 L 53 33 L 49 33 L 49 37 z M 53 37 L 53 41 L 57 41 L 57 37 L 53 37 z M 57 37 L 61 37 L 61 33 L 57 33 L 57 37 z M 61 37 L 61 41 L 65 41 L 65 37 L 61 37 z M 61 41 L 57 41 L 57 45 L 61 45 L 61 41 z M 61 45 L 61 49 L 65 49 L 65 45 L 61 45 z M 61 49 L 57 49 L 57 53 L 61 53 L 61 49 z M 61 53 L 61 57 L 65 57 L 65 53 L 61 53 z M 61 57 L 57 57 L 57 61 L 61 61 L 61 57 z M 61 61 L 61 65 L 65 65 L 65 61 L 61 61 z M 57 61 L 53 61 L 53 65 L 57 65 L 57 61 z M 53 61 L 53 57 L 49 57 L 49 61 L 53 61 z M 49 61 L 45 61 L 45 65 L 49 65 L 49 61 z M 45 61 L 45 57 L 41 57 L 41 61 L 45 61 z M 41 61 L 37 61 L 37 65 L 41 65 L 41 61 z M 37 61 L 37 57 L 33 57 L 33 61 L 37 61 z M 37 57 L 41 57 L 41 53 L 37 53 L 37 57 z M 37 53 L 37 49 L 33 49 L 33 53 L 37 53 z M 37 49 L 41 49 L 41 45 L 37 45 L 37 49 z M 37 45 L 37 41 L 33 41 L 33 45 L 37 45 z M 41 45 L 45 45 L 45 41 L 41 41 L 41 45 z M 45 45 L 45 49 L 49 49 L 49 45 L 45 45 z M 49 45 L 53 45 L 53 41 L 49 41 L 49 45 z M 53 45 L 53 49 L 57 49 L 57 45 L 53 45 z M 53 49 L 49 49 L 49 53 L 53 53 L 53 49 z M 53 53 L 53 57 L 57 57 L 57 53 L 53 53 z M 49 53 L 45 53 L 45 57 L 49 57 L 49 53 z M 45 53 L 45 49 L 41 49 L 41 53 L 45 53 z "
-       transform="translate(0,956.36218)"
-       id="rect4073" />
+       style="fill:none;stroke:url(#linearGradient3823);stroke-opacity:1;opacity:0.29999995" />
     <path
        style="opacity:0.07000002;fill:#000000;fill-opacity:1;stroke:none"
        d="m 79.000017,973.36237 0,62.00003 -62.000015,0 c 50.416971,-6.8302 56.913919,-13.6072 62.000015,-62.00003 z"
        id="rect3822"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
-    <rect
-       style="opacity:0.02000002;fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3820"
-       width="58"
-       height="58"
-       x="19"
-       y="975.36218" />
-    <rect
-       y="974.86218"
-       x="18.5"
-       height="59"
-       width="59"
-       id="rect3818"
-       style="opacity:0.05;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <rect
-       style="opacity:0.1;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3816"
-       width="60"
-       height="60"
-       x="18"
-       y="974.36218" />
-    <rect
-       y="973.86218"
-       x="17.5"
-       height="61"
-       width="61"
-       id="rect3812"
-       style="opacity:0.2;fill:none;stroke:#000000;stroke-opacity:1" />
     <path
        id="path4049"
-       d="m 40,1016.8622 0,2 2,0 0,2 0,2 0,2 0,2 -2,0 0,2 2,0 2,0 2,0 0,-2 -2,0 0,-2 0,-2 0,-2 0,-2 2,0 0,-2 -2,0 -2,0 -2,0 z m 10,0 0,2 2,0 2,0 0,-2 -2,0 -2,0 z m 4,2 0,2 2,0 0,-2 -2,0 z m -4,0 -2,0 0,2 0,2 0,2 0,2 2,0 0,-2 0,-2 0,-2 0,-2 z m 0,8 0,2 2,0 2,0 0,-2 -2,0 -2,0 z m 4,0 2,0 0,-2 -2,0 0,2 z m 6,-10 0,2 2,0 2,0 0,-2 -2,0 -2,0 z m 4,2 0,2 0,2 0,2 0,2 2,0 0,-2 0,-2 0,-2 0,-2 -2,0 z m 0,8 -2,0 -2,0 0,2 2,0 2,0 0,-2 z m -4,0 0,-2 0,-2 0,-2 0,-2 -2,0 0,2 0,2 0,2 0,2 2,0 z"
+       d="m 40,1017.3622 0,2 2,0 0,2 0,2 0,2 0,2 -2,0 0,2 2,0 2,0 2,0 0,-2 -2,0 0,-2 0,-2 0,-2 0,-2 2,0 0,-2 -2,0 -2,0 -2,0 z m 10,0 0,2 2,0 2,0 0,-2 -2,0 -2,0 z m 4,2 0,2 2,0 0,-2 -2,0 z m -4,0 -2,0 0,2 0,2 0,2 0,2 2,0 0,-2 0,-2 0,-2 0,-2 z m 0,8 0,2 2,0 2,0 0,-2 -2,0 -2,0 z m 4,0 2,0 0,-2 -2,0 0,2 z m 6,-10 0,2 2,0 2,0 0,-2 -2,0 -2,0 z m 4,2 0,2 0,2 0,2 0,2 2,0 0,-2 0,-2 0,-2 0,-2 -2,0 z m 0,8 -2,0 -2,0 0,2 2,0 2,0 0,-2 z m -4,0 0,-2 0,-2 0,-2 0,-2 -2,0 0,2 0,2 0,2 0,2 2,0 z"
        style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
     <path

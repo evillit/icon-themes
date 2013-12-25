@@ -59,13 +59,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="3.6570865"
-     inkscape:cy="3.8292642"
+     inkscape:cx="9.8990034"
+     inkscape:cy="8.375244"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="749"
+     inkscape:window-height="751"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -87,9 +87,11 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <path
-       style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none"
-       d="M 2 1 C 1.446 1 1 1.446 1 2 L 1 12 C 1 12.554 1.446 13 2 13 L 4 13 L 8 16 L 12 13 L 14 13 C 14.554 13 15 12.554 15 12 L 15 2 C 15 1.446 14.554 1 14 1 L 2 1 z "
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       d="M 3,2 C 2.446,2 2,2.446 2,3 l 0,7 c 0,0.554 0.4466912,0.972335 1,1 l 2,0 3,3 3,-3 2,0 c 0.554,0 1,-0.446 1,-1 L 14,3 C 14,2.446 13.554,2 13,2 z"
        transform="translate(0,1036.3622)"
-       id="rect3017" />
+       id="rect3017"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssscccsssss" />
   </g>
 </svg>

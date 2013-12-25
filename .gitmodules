@@ -19,3 +19,9 @@
 [submodule "moka-mono-light"]
 	path = moka-mono-light
 	url = https://github.com/snwh/moka-mono-light
+[submodule "pacifica-icon-theme"]
+	path = pacifica-icon-theme
+	url = https://github.com/fsvh/pacifica-icon-theme
+[submodule "flattr-icons"]
+	path = flattr-icons
+	url = https://github.com/NitruxSA/flattr-icons

@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="10.773558"
-     inkscape:cy="4.934698"
+     inkscape:zoom="15.839192"
+     inkscape:cx="14.780741"
+     inkscape:cy="5.6773062"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,11 +54,9 @@
      transform="translate(0,-1036.3622)">
     <path
        style="fill:#bebebe;fill-opacity:1;stroke:none"
-       d="M 2,5 2,15 14,15 14,5 z"
+       d="M 2 5 L 2 15 L 14 15 L 14 5 L 12 5 L 12 13 L 4 13 L 4 5 L 2 5 z "
        transform="translate(0,1036.3622)"
-       id="rect3018"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       id="rect3018" />
     <rect
        style="fill:#bebebe;fill-opacity:1;stroke:none"
        id="rect3020"

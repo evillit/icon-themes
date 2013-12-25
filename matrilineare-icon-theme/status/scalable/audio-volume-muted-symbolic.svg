@@ -13,8 +13,8 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="audio-volume-muted-symbolic.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="audio-volume-low-symbolic.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,14 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="0.30306089"
-     inkscape:cy="-6.9739584"
+     inkscape:zoom="16.000001"
+     inkscape:cx="6.9077693"
+     inkscape:cy="2.82486"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="749"
+     inkscape:window-height="750"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,11 +58,12 @@
        id="rect2985"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
-    <path
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
-       d="m 10,1047.3622 1.5,1.5 -1.5,1.5 1,1 1.5,-1.5001 1.5,1.5001 1,-1 -1.5,-1.5 1.5,-1.5 -1,-1 -1.5,1.5001 -1.5,-1.5001 z"
-       id="rect4100"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+    <rect
+       y="1049.3619"
+       x="10.000007"
+       height="1.9999999"
+       width="5.000001"
+       id="rect3754"
+       style="opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none" />
   </g>
 </svg>

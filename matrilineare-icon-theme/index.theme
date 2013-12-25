@@ -283,22 +283,22 @@ Type=fixed
 Size=96
 Context=Actions
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 [apps/scalable]
 Size=96
 Context=Apps
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 [categories/scalable]
 Size=96
 Context=Categories
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 [devices/scalable]
 Size=96
@@ -311,43 +311,43 @@ MaxSize=128
 Size=96
 Context=Devices
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 [emotes/scalable]
 Size=96
 Context=Devices
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 [mimes/scalable]
 Size=96
 Context=Mimetypes
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 [places/scalable]
 Size=96
 Context=Places
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 [status/scalable]
 Size=96
 Context=Status
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 [stock/scalable]
 Size=96
 Context=Stock
 Type=Scalable
-MinSize=48
-MaxSize=128
+MinSize=8
+MaxSize=512
 
 
 

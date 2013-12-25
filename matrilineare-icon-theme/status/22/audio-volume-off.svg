@@ -13,8 +13,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="audio-volume-medium.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="audio-volume-off.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.000001"
-     inkscape:cx="7.9137974"
-     inkscape:cy="10.04703"
+     inkscape:cx="7.4488783"
+     inkscape:cy="8.2580885"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1230"
-     inkscape:window-height="776"
-     inkscape:window-x="50"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,37 +55,31 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <path
-       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 8,1036.3622 -3.5,3 -2.5,0 0,4 2.5,0 3.5,3 z"
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 10,1035.3623 -4.9999997,4 -3.0000003,0 0,6 3.0000003,0 4.9999997,4 z"
        id="rect2985"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <rect
-       style="opacity:0.25;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect2986"
-       width="3"
-       height="1"
-       x="16.999996"
-       y="1048.3622"
-       rx="0.5"
-       ry="0.033333335" />
-    <rect
-       ry="0.045454547"
-       rx="0.5"
-       y="1048.3622"
-       x="12.999996"
-       height="1"
-       width="3"
+       y="1043.3622"
+       x="13.000002"
+       height="3"
+       width="7"
        id="rect3756"
-       style="opacity:0.25;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="opacity:0.35;fill:#333333;fill-opacity:1;stroke:none" />
     <rect
-       style="opacity:0.25;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="opacity:0.35;fill:#333333;fill-opacity:1;stroke:none"
        id="rect3758"
-       width="3"
-       height="1"
-       x="8.9999962"
-       y="1048.3622"
-       rx="0.5"
-       ry="0.5" />
+       width="7"
+       height="3"
+       x="13.000002"
+       y="1039.3622" />
+    <rect
+       y="1035.3622"
+       x="13.000002"
+       height="3"
+       width="7"
+       id="rect3760"
+       style="opacity:0.35;fill:#333333;fill-opacity:1;stroke:none" />
   </g>
 </svg>

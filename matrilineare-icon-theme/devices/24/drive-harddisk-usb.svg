@@ -19,6 +19,17 @@
   <defs
      id="defs3149">
     <linearGradient
+       id="linearGradient3849">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop3851" />
+      <stop
+         style="stop-color:#505050;stop-opacity:1;"
+         offset="1"
+         id="stop3853" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient3863">
       <stop
          style="stop-color:#141414;stop-opacity:1;"
@@ -363,6 +374,16 @@
        y1="978.36218"
        x2="47.500008"
        y2="1014.6432" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3849"
+       id="linearGradient3855"
+       x1="12.02605"
+       y1="6.1902137"
+       x2="12.02605"
+       y2="13.027551"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,1027.3622)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -371,14 +392,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="19.622213"
-     inkscape:cx="9.8603802"
-     inkscape:cy="11.258204"
+     inkscape:zoom="9.8111065"
+     inkscape:cx="9.1577645"
+     inkscape:cy="10.13335"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="756"
+     inkscape:window-height="751"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -472,10 +493,16 @@
        id="path3917"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:url(#linearGradient3862);fill-opacity:1;stroke:none;display:inline"
-       d="m 9.0000105,1037.1136 c 0,0.2621 0.2277525,0.4864 0.5508805,0.5872 l 0,0.6542 c 0,0.234 0.170912,0.4543 0.376434,0.6129 0.0022,0 0.0024,0 0.0046,0.01 0,0 0,0 0,0 3e-6,0 0.0091,0.01 0.0092,0.01 3.9e-5,0 0.0079,0.01 0.0092,0.01 0.0013,0 0.0038,0 0.0046,0 7.5e-4,0 -7.5e-4,0 0,0 0.0031,0 0.0092,0 0.01376,0.01 0.0016,0 0.003,0 0.0046,0 0.0049,0 1.523753,0.9869 1.542461,0.9989 0.0729,0.064 0.125748,0.1531 0.128538,0.2329 l 0,0.5714 c -0.460229,0.1067 -0.794185,0.4063 -0.794185,0.7564 0,0.4397 0.522552,0.7947 1.166028,0.7947 0.643668,0 1.166027,-0.355 1.166027,-0.7947 0,-0.3502 -0.333688,-0.6497 -0.794186,-0.7564 l 0,-0.565 c 0,0 -8.4e-5,-0.01 0,-0.01 8.7e-5,0 5.4e-4,0 0,-0.01 l 0,-0.9861 c 0.003,-0.08 0.0549,-0.1619 0.128541,-0.2264 0.0094,-0.01 0.382958,-0.2501 0.76664,-0.4981 0.194215,-0.1254 0.390981,-0.2503 0.537107,-0.3445 0.07307,-0.047 0.131559,-0.087 0.174446,-0.1149 0.02144,-0.014 0.03888,-0.025 0.0505,-0.032 0.0058,0 0.01068,0 0.01376,-0.01 0.0014,0 0.0031,0 0.0046,-0.01 0.0042,0 0.01092,0 0.01378,-0.01 9.3e-4,0 -9.3e-4,0 0,0 9.3e-4,0 0.0032,0 0.0046,0 0.0013,0 0.0091,-0.013 0.0092,-0.013 5e-6,0 0.0092,-0.01 0.0092,-0.01 0,0 0,0 0,0 0,0 0.0046,0 0.0046,0 7.5e-4,0 -7.5e-4,0 0,0 0.0018,0 0.0046,-0.01 0.0046,-0.01 0.202408,-0.1584 0.371844,-0.375 0.371844,-0.6064 l 0,-0.6 0.518745,0 0,-1.2734 -1.784501,0 0,1.2734 0.522068,0 c 0,0.1335 0,0.2724 0,0.6096 -0.0026,0.08 -0.05449,0.1614 -0.128539,0.2265 l -1.221114,0.7916 0,-3.5268 0.805422,0 -1.19339,-1.4934 -1.193696,1.4934 0.837978,0 0,4.5129 -1.221116,-0.7882 c -0.07315,-0.065 -0.125831,-0.1531 -0.128538,-0.2331 0,-0.275 4.3e-5,-0.4893 0,-0.6574 0.330725,-0.099 0.56465,-0.3247 0.56465,-0.5905 0,-0.3563 -0.419404,-0.6477 -0.931903,-0.6477 -0.512499,0 -0.9273131,0.2914 -0.9273131,0.6477 z"
-       id="path1334-2"
-       sodipodi:nodetypes="cccsccsssssscccsssccscccsssssssssscccsccccccccccccccccccccssc"
-       inkscape:connector-curvature="0" />
+       id="path3847"
+       d="m 12,1034.3622 -4,4 8,0 z m -4,5 0,2 8,0 0,-2 z"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:url(#linearGradient3855);fill-opacity:1;stroke:none"
+       d="m 12,1033.3622 -4,4 8,0 z m -4,5 0,2 8,0 0,-2 z"
+       id="rect3842"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
   </g>
 </svg>

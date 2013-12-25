@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="16"
@@ -40,24 +39,6 @@
          offset="1"
          id="stop4299" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4295"
-       id="linearGradient4301"
-       x1="8.2187519"
-       y1="1039.3745"
-       x2="8.2187519"
-       y2="1049.3507"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4303"
-       id="linearGradient4309"
-       x1="3.4836617"
-       y1="1050.36"
-       x2="3.4836617"
-       y2="1038.3732"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -66,14 +47,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="5.5830417"
-     inkscape:cy="4.7466185"
+     inkscape:zoom="22.4"
+     inkscape:cx="5.8466384"
+     inkscape:cy="7.1242261"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="756"
+     inkscape:window-height="751"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -85,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,7 +76,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:url(#linearGradient4301);fill-opacity:1;stroke:url(#linearGradient4309);stroke-opacity:1"
+       style="fill:#505050;fill-opacity:1;stroke:#333333;stroke-opacity:1"
        id="rect3017"
        width="11"
        height="11"

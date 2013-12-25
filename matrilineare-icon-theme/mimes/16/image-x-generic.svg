@@ -14,8 +14,8 @@
    width="16"
    height="16"
    id="svg3321"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="image-x-ico2.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="image-x-generic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="756"
+     inkscape:window-height="748"
      id="namedview4747"
      showgrid="false"
      inkscape:zoom="11.313708"
-     inkscape:cx="2.7841506"
-     inkscape:cy="1.4891316"
+     inkscape:cx="0.11959223"
+     inkscape:cy="1.0222578"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3321"
      showguides="true"
@@ -614,11 +614,11 @@
        id="linearGradient3484">
       <stop
          id="stop3486"
-         style="stop-color:#646464;stop-opacity:1;"
+         style="stop-color:#005351;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3488"
-         style="stop-color:#8c8c8c;stop-opacity:1;"
+         style="stop-color:#117765;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -897,10 +897,10 @@
        y2="18.987852" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6404"
+       xlink:href="#linearGradient4045"
        id="radialGradient4779"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4514151e-8,0.83083325,-0.78485538,1.3710946e-8,18.427329,-4.0343074)"
+       gradientTransform="matrix(0,0.87070897,-0.69648101,0,17.250885,-4.3626121)"
        cx="8.233202"
        cy="13.312052"
        fx="8.233202"
@@ -1706,7 +1706,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1719,25 +1719,16 @@
      height="15"
      width="15" />
   <rect
-     style="fill:url(#radialGradient4128);fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="rect3351"
-     width="12"
-     height="12"
-     x="2.0000002"
-     y="2.0000005" />
-  <rect
-     style="opacity:0.50000000000000000;fill:none;stroke:url(#linearGradient4776);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="opacity:0.3;fill:none;stroke:url(#linearGradient4776);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      id="rect6741-2"
      y="1.5"
      x="1.5"
      height="13"
      width="13" />
   <path
-     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.1"
-     d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 3 3 L 13 3 L 13 13 L 3 13 L 3 3 z "
-     id="rect4074" />
-  <path
-     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.15"
-     d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 2.5 2.5 L 13.5 2.5 L 13.5 13.5 L 2.5 13.5 L 2.5 2.5 z "
-     id="rect4079" />
+     style="opacity:0.07000002;fill:#000000;fill-opacity:1;stroke:none"
+     d="M 14,4 14,14 4,14 C 11.344313,13.22231 12.770339,12.054635 14,4 z"
+     id="rect4078"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
 </svg>

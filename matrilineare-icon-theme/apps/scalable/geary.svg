@@ -14,7 +14,7 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="geary.svg">
   <defs
      id="defs4">
@@ -113,11 +113,11 @@
     <linearGradient
        id="linearGradient3784">
       <stop
-         style="stop-color:#bf8b30;stop-opacity:1;"
+         style="stop-color:#f1c759;stop-opacity:1;"
          offset="0"
          id="stop3786" />
       <stop
-         style="stop-color:#975d15;stop-opacity:1;"
+         style="stop-color:#ddb34f;stop-opacity:1;"
          offset="1"
          id="stop3788" />
     </linearGradient>
@@ -380,16 +380,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="15.331194"
-     inkscape:cy="29.721519"
+     inkscape:zoom="2.8"
+     inkscape:cx="23.952068"
+     inkscape:cy="26.244539"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="756"
+     inkscape:window-height="748"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="26"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -399,7 +399,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

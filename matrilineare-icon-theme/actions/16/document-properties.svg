@@ -15,7 +15,7 @@
    id="svg3147"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="document-properties1.svg">
+   sodipodi:docname="document-properties.svg">
   <defs
      id="defs3149">
     <linearGradient
@@ -137,26 +137,6 @@
        y2="1024.1722"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-4,27.000017)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3771"
-       id="radialGradient3777"
-       cx="8.2162399"
-       cy="1039.3171"
-       fx="8.2162399"
-       fy="1039.3171"
-       r="8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.0451418e-6,1.9369369,-1.4505624,2.2804915e-6,1515.8106,1023.4004)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3779"
-       id="linearGradient3785"
-       x1="4.8288288"
-       y1="1052.146"
-       x2="4.8288288"
-       y2="1036.2902"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -166,13 +146,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="19.622213"
-     inkscape:cx="10.307223"
-     inkscape:cy="3.2967843"
+     inkscape:cx="-1.584388"
+     inkscape:cy="9.8388201"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="756"
+     inkscape:window-height="751"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -194,7 +174,7 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:url(#radialGradient3777);fill-opacity:1;stroke:url(#linearGradient3785);stroke-opacity:1"
+       style="fill:#505050;fill-opacity:1;stroke:#333333;stroke-opacity:1"
        id="rect3163"
        width="15"
        height="15"
@@ -202,15 +182,6 @@
        y="1036.8622"
        rx="1"
        ry="1" />
-    <rect
-       style="opacity:0.29999999999999999;fill:none;stroke:url(#linearGradient4542);stroke-opacity:1"
-       id="rect4534"
-       width="13"
-       height="13"
-       x="1.5"
-       y="1037.8622"
-       rx="0.1"
-       ry="0.1" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;opacity:0.09999995;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 3 3 L 3 5 L 5 5 L 5 3 L 3 3 z M 7 3 L 7 5 L 13 5 L 13 3 L 7 3 z M 3 7 L 3 9 L 5 9 L 5 7 L 3 7 z M 7 7 L 7 9 L 13 9 L 13 7 L 7 7 z M 3 11 L 3 13 L 5 13 L 5 11 L 3 11 z M 7 11 L 7 13 L 13 13 L 13 11 L 7 11 z "

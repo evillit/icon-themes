@@ -13,7 +13,7 @@
    height="16"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="microphone-senstivity-low-symbolic.svg">
   <defs
      id="defs4" />
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="-0.9139861"
+     inkscape:cx="2.6016389"
      inkscape:cy="3.1749911"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="749"
+     inkscape:window-height="750"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -55,19 +55,12 @@
      id="layer1"
      transform="translate(0,-1036.3622)">
     <rect
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
-       id="rect2988"
-       width="5.0000005"
-       height="2"
-       x="10.000001"
-       y="1049.3622" />
-    <rect
        y="1046.3624"
        x="10.000001"
        height="2"
        width="5.0000005"
        id="rect2990"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;opacity:0.35" />
+       style="fill:#bebebe;fill-opacity:1;stroke:none;opacity:1" />
     <rect
        style="fill:#bebebe;fill-opacity:1;stroke:none;opacity:0.35"
        id="rect2992"

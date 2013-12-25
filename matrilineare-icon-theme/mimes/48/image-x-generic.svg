@@ -14,7 +14,7 @@
    width="48"
    height="48"
    id="svg3321"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="image-x-generic.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="756"
+     inkscape:window-height="748"
      id="namedview4747"
      showgrid="false"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="23.287166"
-     inkscape:cy="25.2735"
+     inkscape:zoom="11.313708"
+     inkscape:cx="16.823708"
+     inkscape:cy="20.42886"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3321"
      showguides="true"
@@ -874,7 +874,7 @@
        y2="43" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6404"
+       xlink:href="#linearGradient4045"
        id="radialGradient4779"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.9428467e-8,2.33699,-2.4722567,-4.3056275e-8,44.890102,-11.434799)"
@@ -885,14 +885,14 @@
        r="19.99999" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3484"
+       xlink:href="#linearGradient4115"
        id="linearGradient4781"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-2e-7,1)"
-       x1="24"
-       y1="44"
-       x2="24"
-       y2="3.8990016" />
+       x1="9.3275337"
+       y1="4.1368532"
+       x2="9.3275337"
+       y2="43.781464" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3688-166-749"
@@ -1744,7 +1744,7 @@
      height="39"
      width="39" />
   <rect
-     style="opacity:0.5;fill:none;stroke:url(#linearGradient4776);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="opacity:0.3;fill:none;stroke:url(#linearGradient4776);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      id="rect6741-2"
      y="6.5"
      x="5.499999"
@@ -1752,28 +1752,10 @@
      rx="1"
      height="37"
      width="37" />
-  <rect
-     style="fill:url(#radialGradient4088);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4080);stroke-opacity:1"
-     id="rect3304"
-     width="31"
-     height="31"
-     x="8.499999"
-     y="9.5" />
-  <g
-     id="g3314">
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="rect4078"
-       d="m 38.999999,10 0,30 -30,0 c 22.032949,-2.333063 26.311047,-5.836068 30,-30 z"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.07" />
-    <path
-       id="rect4074"
-       d="M 9 10 L 9 40 L 39 40 L 39 10 L 9 10 z M 10 11 L 38 11 L 38 39 L 10 39 L 10 11 z "
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1" />
-    <path
-       id="rect3300"
-       d="M 9 10 L 9 40 L 39 40 L 39 10 L 9 10 z M 9.5 10.5 L 38.5 10.5 L 38.5 39.5 L 9.5 39.5 L 9.5 10.5 z "
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1" />
-  </g>
+  <path
+     style="opacity:0.07000002;fill:#000000;fill-opacity:1;stroke:none"
+     d="m 38.999999,10 0,30 -30,0 c 22.032949,-2.333063 26.311047,-5.836068 30,-30 z"
+     id="rect4078"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
 </svg>
