@@ -25,3 +25,15 @@
 [submodule "flattr-icons"]
 	path = flattr-icons
 	url = https://github.com/NitruxSA/flattr-icons
+[submodule "numix-icon-theme-circle"]
+	path = numix-icon-theme-circle
+	url = https://github.com/numixproject/numix-icon-theme-circle
+[submodule "numix-icon-theme"]
+	path = numix-icon-theme
+	url = https://github.com/numixproject/numix-icon-theme
+[submodule "numix-icon-theme-shine"]
+	path = numix-icon-theme-shine
+	url = https://github.com/numixproject/numix-icon-theme-shine
+[submodule "numix-icon-theme-utouch"]
+	path = numix-icon-theme-utouch
+	url = https://github.com/numixproject/numix-icon-theme-utouch
