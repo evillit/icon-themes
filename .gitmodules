@@ -1,6 +1,3 @@
-[submodule "moka-icon-theme"]
-	path = moka-icon-theme
-	url = https://github.com/snwh/moka-icon-theme
 [submodule "pacifica-icon-theme"]
 	path = pacifica-icon-theme
 	url = https://github.com/fsvh/pacifica-icon-theme
@@ -19,3 +16,18 @@
 [submodule "numix-icon-theme-utouch"]
 	path = numix-icon-theme-utouch
 	url = https://github.com/numixproject/numix-icon-theme-utouch
+[submodule "moka-icon-theme"]
+	path = moka-icon-theme
+	url = https://github.com/snwh/moka-icon-theme
+[submodule "faba-icon-theme-symbolic"]
+	path = faba-icon-theme-symbolic
+	url = https://github.com/snwh/faba-icon-theme-symbolic
+[submodule "faba-mono-icons"]
+	path = faba-mono-icons
+	url = https://github.com/snwh/faba-mono-icons
+[submodule "faba-colors"]
+	path = faba-colors
+	url = https://github.com/snwh/faba-colors
+[submodule "faba-icon-theme"]
+	path = faba-icon-theme
+	url = https://github.com/snwh/faba-icon-theme
