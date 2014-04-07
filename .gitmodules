@@ -10,9 +10,6 @@
 [submodule "moka-icon-theme-dark"]
 	path = moka-icon-theme-dark
 	url = https://github.com/snwh/moka-icon-theme-dark
-[submodule "moka-icon-theme-blue"]
-	path = moka-icon-theme-blue
-	url = https://github.com/snwh/moka-icon-theme-blue
 [submodule "moka-mono-dark"]
 	path = moka-mono-dark
 	url = https://github.com/snwh/moka-mono-dark
