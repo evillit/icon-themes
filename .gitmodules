@@ -19,15 +19,3 @@
 [submodule "moka-icon-theme"]
 	path = moka-icon-theme
 	url = https://github.com/snwh/moka-icon-theme
-[submodule "faba-icon-theme-symbolic"]
-	path = faba-icon-theme-symbolic
-	url = https://github.com/snwh/faba-icon-theme-symbolic
-[submodule "faba-mono-icons"]
-	path = faba-mono-icons
-	url = https://github.com/snwh/faba-mono-icons
-[submodule "faba-colors"]
-	path = faba-colors
-	url = https://github.com/snwh/faba-colors
-[submodule "faba-icon-theme"]
-	path = faba-icon-theme
-	url = https://github.com/snwh/faba-icon-theme
